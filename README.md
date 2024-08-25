@@ -31,3 +31,5 @@ mvn clean install
 mvn spring-boot:run
 
 you can view api-docs at http://localhost:8083/api-docs
+```
+![OpenAPI Definition](images/img.png)
