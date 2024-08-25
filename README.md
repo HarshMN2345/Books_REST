@@ -29,3 +29,5 @@ git clone https://github.com/HarshMN2345/Books_REST.git
 cd Books_REST
 mvn clean install
 mvn spring-boot:run
+
+you can view api-docs at http://localhost:8083/api-docs
